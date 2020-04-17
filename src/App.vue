@@ -3,7 +3,7 @@
     <div id="nav">
       <header class="header center">
         <div class="header__left">
-          <a class="header__logo" href="index.html">
+          <a class="header__logo" href="/">
             <img class="header__logo_img" src="~@/assets/logo.png" alt="logo">BRAN
             <span class="header__logo_red">D</span></a>
           <form class="header__form" action="#">
@@ -48,7 +48,7 @@
       </header>
       <nav class="nav center">
         <ul class="nav__menu">
-          <li class="nav__menu_list"><a href="index.html" class="nav__menu_link">Home</a>
+          <li class="nav__menu_list"><a href="/" class="nav__menu_link">Home</a>
             <div class="nav__drop">
               <div class="nav__flex">
                 <h3 class="nav__flex_h3">Women</h3>
@@ -374,7 +374,9 @@
         </ul>
       </nav>
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link> |
+      <router-link to="/cart">Cart</router-link> |
+      <router-link to="/product">Product</router-link>
     </div>
     <router-view/>
     <footer class="footer center">
