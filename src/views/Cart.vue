@@ -1,5 +1,12 @@
 <template>
   <div>
+    <h1>Shopping Cart Example</h1>
+    <hr>
+    <h2>Products</h2>
+    <ProductList/>
+    <hr>
+    <ShoppingCart/>
+  </div>
   <div class="arrival center">
     <div class="arrival__content">
       <h1 class="arrival__content_h1">New Arrivals </h1>
@@ -21,7 +28,7 @@
     </div>
     <div class="product_details2">
       <div class="details2_img">
-        <img src="img/2-layers44.jpg" alt="mango">
+        <img src="~@/assets/2-layers44.jpg" alt="mango">
       </div>
       <div class="content_details">
         <h2 class="detais_h2">Mango  People  T-shirt</h2>
@@ -47,7 +54,7 @@
     </div>
     <div class="product_details2">
       <div class="details2_img">
-        <img src="img/2-layers44.jpg" alt="mango">
+        <img src="~@/assets/2-layers44.jpg" alt="mango">
       </div>
       <div class="content_details">
         <h2 class="detais_h2">Mango  People  T-shirt</h2>
@@ -73,7 +80,7 @@
     </div>
     <div class="product_details2">
       <div class="details2_img">
-        <img src="img/2-layers44.jpg" alt="mango">
+        <img src="~@/assets/2-layers44.jpg" alt="mango">
       </div>
       <div class="content_details">
         <h2 class="detais_h2">Mango  People  T-shirt</h2>
@@ -128,3 +135,12 @@
   </div>
   </div>
 </template>
+
+<script>
+import ProductList from './ProductList.vue';
+import ShoppingCart from './ShoppingCart.vue';
+
+export default {
+  components: { ProductList, ShoppingCart },
+};
+</script>
