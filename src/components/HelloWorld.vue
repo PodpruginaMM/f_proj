@@ -41,7 +41,8 @@
     <section class="items center">
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_2.png" alt="t-shirt"></a>
+                                                        src="~@/assets/Layer_2.png"
+                                                        alt="t-shirt"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -55,13 +56,14 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_3.png" alt="t-shirt"></a>
+                                                        src="~@/assets/Layer_3.png"
+                                                        alt="t-shirt"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -75,13 +77,14 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_4.jpg" alt="shadow"></a>
+                                                        src="~@/assets/Layer_4.jpg"
+                                                        alt="shadow"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -95,13 +98,14 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_5.png" alt="t-shirt"></a>
+                                                        src="~@/assets/Layer_5.png"
+                                                        alt="t-shirt"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -115,13 +119,14 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_6.png" alt="t-shirt"></a>
+                                                        src="~@/assets/Layer_6.png"
+                                                        alt="t-shirt"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -135,13 +140,14 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_7.png" alt="t-shirt"></a>
+                                                        src="~@/assets/Layer_7.png"
+                                                        alt="t-shirt"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -155,13 +161,14 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_8.png" alt="t-shirt"></a>
+                                                        src="~@/assets/Layer_8.png"
+                                                        alt="t-shirt"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -175,13 +182,14 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
         <a href="singlepage.html" class="block__a"><img class="block__a_img"
-                                                        src="img/Layer_9.png" alt="t-shirt"></a>
+                                                        src="~@/assets/Layer_9.png"
+                                                        alt="t-shirt"></a>
         <div class="block__content">
           <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
@@ -195,9 +203,9 @@
         </div>
         <a href="chekout.html" class="block__add">Add to cart</a>
         <a href="#" class="block_add_rectangle"><img class="img_rectangle"
-                                                     src="img/Forma_1.png" alt=""></a>
+                                                     src="~@/assets/Forma_1.png" alt=""></a>
         <a href="#" class="block_add_heart"><img class="img_heart"
-                                                 src="img/heart_add.png" alt=""></a>
+                                                 src="~@/assets/heart_add.png" alt=""></a>
       </div>
     </section>
     <div class="all__products center"><a href="product.html"
@@ -214,21 +222,21 @@
         <div class="banner__box">
           <table class="banner__box_table">
             <tr>
-              <td class="table_column"><img src="img/truck.svg" alt="truck"></td>
+              <td class="table_column"><img src="~@/assets/truck.svg" alt="truck"></td>
               <td><br>
                 <h3>Free delivery</h3><br>Worldwide delivery on all.
                 Authorit tively morph next-generation innov tion with extensive models.<br>
               </td>
             </tr>
             <tr>
-              <td><img src="img/discount.svg" alt="discount"></td>
+              <td><img src="~@/assets/discount.svg" alt="discount"></td>
               <td><br>
                 <h3>Best discounts</h3><br>Worldwide delivery on all.
                 Authorit tively morph next-generation innov tion with extensive models.<br>
               </td>
             </tr>
             <tr>
-              <td><img src="img/crown.svg" alt="crown"></td>
+              <td><img src="~@/assets/crown.svg" alt="crown"></td>
               <td><br>
                 <h3>Aditional Priveleges</h3><br>Worldwide delivery on all.
                 Authorit tively morph next-generation innov tion with extensive models.<br>
@@ -240,7 +248,7 @@
     </section>
     <section class="subscribe center">
       <div class="subscribe__content">
-        <div class="subscribe__content_img"><img src="img/Layer_40.png" alt="face"></div>
+        <div class="subscribe__content_img"><img src="~@/assets/Layer_40.png" alt="face"></div>
         <div class="subscribe__content_text">“Vestibulum quis porttitor dui!
           Quisque viverra nunc mi,
           a pulvinar purus condimentum a. Aliquam condimentum mattis neque sed pretium”

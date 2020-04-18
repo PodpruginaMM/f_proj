@@ -11,27 +11,27 @@
               <summary class="header__browse_summary">Browse</summary>
               <div class="header__drop">
                 <ul class="header__menu">Women
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">Dresses</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">Tops</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">
                     Sweaters/Knits</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">
                     Jackets/Coats</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">Blazers</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">Denim</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">
                     Leggings/Pants</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">
                     Skirts/Shorts</a></li>
-                  <li class="header__menu_list"><a href="product.html"
+                  <li class="header__menu_list"><a href="/Product"
                                                    class="header__menu_link_">Accessories</a></li>
                 </ul>
               </div>
@@ -42,7 +42,7 @@
           </form>
         </div>
         <div class="header__right" >
-          <img class="header__right_cart" src="~@/assets/cart.svg" alt="cart">
+          <a href="/cart"><img class="header__right_cart" src="~@/assets/cart.svg" alt="cart"></a>
           <a href="#" class="header__right_button">My Account</a>
         </div>
       </header>
@@ -51,7 +51,7 @@
           <li class="nav__menu_list"><a href="/" class="nav__menu_link">Home</a>
             <div class="nav__drop">
               <div class="nav__flex">
-                <h3 class="nav__flex_h3">Women</h3>
+                <h3 class="nav__flex_h3"><a href="/Product">Women</a></h3>
                 <ul class="nav__flex_ul">
                   <li><a href="#" class="nav__flex_link">Dresses</a></li>
                   <li><a href="#" class="nav__flex_link">Tops</a></li>
@@ -94,7 +94,7 @@
               </div>
             </div>
           </li>
-          <li class="nav__menu_list"><a href="product.html" class="nav__menu_link">Man</a>
+          <li class="nav__menu_list"><a href="/Product" class="nav__menu_link">Man</a>
             <div class="nav__drop">
               <div class="nav__flex">
                 <h3 class="nav__flex_h3">Women</h3>
@@ -141,7 +141,7 @@
               </div>
             </div>
           </li>
-          <li class="nav__menu_list"><a href="#" class="nav__menu_link">Women</a>
+          <li class="nav__menu_list"><a href="/Product" class="nav__menu_link">Women</a>
             <div class="nav__drop">
               <div class="nav__flex">
                 <h3 class="nav__flex_h3">Women</h3>
@@ -187,7 +187,7 @@
               </div>
             </div>
           </li>
-          <li class="nav__menu_list"><a href="#" class="nav__menu_link">Kids</a>
+          <li class="nav__menu_list"><a href="/Product" class="nav__menu_link">Kids</a>
             <div class="nav__drop">
               <div class="nav__flex">
                 <h3 class="nav__flex_h3">Women</h3>
@@ -233,7 +233,7 @@
               </div>
             </div>
           </li>
-          <li class="nav__menu_list"><a href="#" class="nav__menu_link">Accoseriese</a>
+          <li class="nav__menu_list"><a href="/Product" class="nav__menu_link">Accoseriese</a>
             <div class="nav__drop">
               <div class="nav__flex">
                 <h3 class="nav__flex_h3">Women</h3>
@@ -373,10 +373,6 @@
           </li>
         </ul>
       </nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link> |
-      <router-link to="/cart">Cart</router-link> |
-      <router-link to="/product">Product</router-link>
     </div>
     <router-view/>
     <footer class="footer center">
@@ -395,8 +391,8 @@
         <div class="footer__nav">
           <div class="footer__nav_main">
             <ul class="footer__nav_menu">company
-              <li><a href="index.html" class="footer__nav_link">Home </a></li>
-              <li><a href="product.html" class="footer__nav_link">Shop</a></li>
+              <li><a href="/" class="footer__nav_link">Home </a></li>
+              <li><a href="/Product" class="footer__nav_link">Shop</a></li>
               <li><a href="chekout.html" class="footer__nav_link">About</a></li>
               <li><a href="chekout.html" class="footer__nav_link">How It Works</a></li>
               <li><a href="chekout.html" class="footer__nav_link">Contact</a></li>
@@ -409,11 +405,11 @@
               <li><a href="chekout.html" class="footer__nav_link">Promotion</a></li>
             </ul>
             <ul class="footer__nav_menu">SHOP CATEGORY
-              <li><a href="product.html" class="footer__nav_link">Men</a></li>
-              <li><a href="product.html" class="footer__nav_link">Women</a></li>
-              <li><a href="product.html" class="footer__nav_link">Child</a></li>
-              <li><a href="product.html" class="footer__nav_link">Apparel</a></li>
-              <li><a href="product.html" class="footer__nav_link">Brows All</a></li>
+              <li><a href="/Product" class="footer__nav_link">Men</a></li>
+              <li><a href="/Product" class="footer__nav_link">Women</a></li>
+              <li><a href="/Product" class="footer__nav_link">Child</a></li>
+              <li><a href="/Product" class="footer__nav_link">Apparel</a></li>
+              <li><a href="/Product" class="footer__nav_link">Brows All</a></li>
             </ul>
           </div>
         </div>
@@ -1662,11 +1658,8 @@ a
   border: 1px solid #eaeaea
   background-color: $selectedColorWhite
   margin-bottom: 8px
-  margin-left: 230px
   z-index: 1
   margin-top: -90px
-  padding-left: 500px
-  width: 1600px
 
 .devider_h3
   color: $selectedColor
