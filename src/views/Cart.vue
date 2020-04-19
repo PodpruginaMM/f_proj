@@ -6,7 +6,6 @@
     <ProductList/>
     <hr>
     <ShoppingCart/>
-  </div>
   <div class="arrival center">
     <div class="arrival__content">
       <h1 class="arrival__content_h1">New Arrivals </h1>
