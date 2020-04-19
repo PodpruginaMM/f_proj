@@ -1969,6 +1969,9 @@ a
   padding-top: 30px
   margin-left: 44px
   transition-property: color
-.button_chekout:ohver
+.button_chekout:hover
   background-color: $selectedColor
+
+.cart_txt
+  font-size: 20px
 </style>
