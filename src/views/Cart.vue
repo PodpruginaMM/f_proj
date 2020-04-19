@@ -1,15 +1,5 @@
 <template>
   <div>
-  <div class="arrival center">
-    <div class="arrival__content">
-      <h1 class="arrival__content_h1">New Arrivals </h1>
-      <div class="arrival__breadcrumbs">
-        <a class="arrival__breadcrumbs_link" href="index.html">Home/</a>
-        <a class="arrival__breadcrumbs_link" href="product.html">Men/</a>
-        <a class="arrival__breadcrumbs_red" href="product.html">New Arrivals</a>
-      </div>
-    </div>
-  </div>
   <section class="product_details center">
     <ProductList/>
     <br>

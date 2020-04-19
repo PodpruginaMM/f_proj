@@ -73,7 +73,7 @@ const products = [
     inventory: 100,
   },
   {
-    id: 463,
+    id: 577,
     title: 'Exclusive beige leggins',
     price: 112,
     img_name: 'img/Layer_8.png',
