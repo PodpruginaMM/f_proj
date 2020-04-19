@@ -40,11 +40,11 @@
     </div>
     <section class="items center">
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_2.png"
                                                         alt="t-shirt"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
@@ -61,11 +61,11 @@
                                                  src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_3.png"
                                                         alt="t-shirt"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
@@ -82,11 +82,11 @@
                                                  src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_4.jpg"
                                                         alt="shadow"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
@@ -103,11 +103,11 @@
                                                  src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_5.png"
                                                         alt="t-shirt"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
@@ -124,11 +124,11 @@
                                                  src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_6.png"
                                                         alt="t-shirt"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
@@ -145,11 +145,11 @@
                                                  src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_7.png"
                                                         alt="t-shirt"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
@@ -166,11 +166,11 @@
                                                  src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_8.png"
                                                         alt="t-shirt"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
@@ -187,11 +187,11 @@
                                                  src="~@/assets/heart_add.png" alt=""></a>
       </div>
       <div class="block">
-        <a href="singlepage.html" class="block__a"><img class="block__a_img"
+        <a href="/Good/345" class="block__a"><img class="block__a_img"
                                                         src="~@/assets/Layer_9.png"
                                                         alt="t-shirt"></a>
         <div class="block__content">
-          <a href="singlepage.html" class="block__content_a">mango people t-shirt</a>
+          <a href="/Good/345" class="block__content_a">mango people t-shirt</a>
           <p class="block__content_p">$52.00</p>
           <div class="icons_star">
             <i class="fas fa-star"></i>
